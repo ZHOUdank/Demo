@@ -9,3 +9,5 @@ git remote add origin https://git@github.com:ZHOUdank/Demo.git
 git push -u origin master
 
 ### 插件 `.ignore` 可以过滤一些文件不再多次提交
+
+1.`format`的学习使用

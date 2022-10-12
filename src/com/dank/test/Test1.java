@@ -1,4 +1,4 @@
-package com.dank;
+package com.dank.test;
 
 /**
  * @ClassName: test1
